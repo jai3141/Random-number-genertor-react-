@@ -4,6 +4,21 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
+
+
+A simple and interactive **Random Number Generator** built using **React.js**.  
+This project helps understand React fundamentals like state management, event handling, and component-based architecture.
+
+---
+
+## 🚀 Features
+- Generate random numbers instantly
+- Clean and responsive UI
+- Easy to use and beginner-friendly
+- Built with reusable React components
+
+---
+
 ## 🛠️ Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
